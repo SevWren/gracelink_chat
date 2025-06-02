@@ -1,5 +1,3 @@
----
-
 # Gracelink Chat 🚀
 
 A modern, interactive, and dark-themed AI chatbot application powered by Google's Gemini API. Built with React 19, TypeScript, and Tailwind CSS, this application runs directly in the browser using ESM modules, providing a seamless user experience for real-time conversations with an advanced AI model.
@@ -157,8 +155,3 @@ For this project in its current state (no build step, direct ESM imports), you c
 *   [Tailwind CSS](https://tailwindcss.com/): For the utility-first CSS framework.
 *   [TypeScript](https://www.typescriptlang.org/): For static typing and improved developer experience.
 *   [esm.sh](https://esm.sh/): For providing ES Module CDN access to npm packages.
-
----
-
-Happy Chatting! 🎉
-```
