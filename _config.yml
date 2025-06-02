@@ -1,0 +1,5 @@
+title: GraceLink Chat
+description: "A modern TypeScript/HTML chat application."
+theme: minima
+baseurl: "/gracelink_chat" # Make sure this matches your repo name for project pages
+url: "https://sevwren.github.io"
